@@ -168,4 +168,4 @@ Have ideas? Want to improve generators? PRs are welcome!
 
 ## 📄 License
 
-MIT License © [Your Name](https://github.com/HAMEDNGOMA)
+MIT License © [HAMEDNGOMA](https://github.com/HAMEDNGOMA)
