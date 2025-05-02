@@ -11,7 +11,7 @@ A simple, powerful Dart CLI tool to quickly scaffold features, core structure, a
 ### 🔹 Clone & Run Locally
 
 ```bash
-git clone https://github.com/your-username/easy_init.git
+git clone https://github.com/HAMEDNGOMA/easy_init.git
 cd easy_init
 dart pub get
 ```
@@ -29,7 +29,7 @@ dart run bin/easy_init.dart <command>
 Make it available from anywhere on your machine:
 
 ```bash
-dart pub global activate --source git https://github.com/your-username/easy_init.git
+dart pub global activate --source git https://github.com/HAMEDNGOMA/easy_init.git
 ```
 
 Then run it like this:
@@ -168,4 +168,4 @@ Have ideas? Want to improve generators? PRs are welcome!
 
 ## 📄 License
 
-MIT License © [Your Name](https://github.com/your-username)
+MIT License © [Your Name](https://github.com/HAMEDNGOMA)
